@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a Data Analyst with 1+ year of hands-on experience building end-to-end analytics pipelines — from raw data ingestion and SQL-driven analysis to automated dashboards and stakeholder-ready reports.
+I'm a Data Analyst with hands-on experience building end-to-end analytics pipelines — from raw data ingestion and SQL-driven analysis to automated dashboards and stakeholder-ready reports.
 
 - 📍 Based in Bengaluru, India
 - 🎓 B.Tech in Artificial Intelligence & Data Science
