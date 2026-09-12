@@ -122,8 +122,6 @@ I'm a Data Analyst with hands-on experience building end-to-end analytics pipeli
 
 ## Experience Highlights
 
-**Data Analyst / Junior Data Scientist — Nube Matrix, Tirupati** *(May 2024 – Apr 2025)*
-
 | Metric | Outcome |
 |---|---|
 | 📉 Reporting time reduced | **60%** via Python + SQL workflow automation |
@@ -134,19 +132,6 @@ I'm a Data Analyst with hands-on experience building end-to-end analytics pipeli
 | 📊 KPIs tracked | **10+ KPIs** across regions and product lines |
 
 ---
-
-## GitHub Stats
-
-<div align="center">
-
-![Hemesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=royalhemesh&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=royalhemesh&theme=github-dark-blue&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=royalhemesh&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
 ---
 
 ## Certifications
